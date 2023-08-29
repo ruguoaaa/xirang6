@@ -47,7 +47,7 @@ features:
   - icon: repo
     title: 艺藏
     details: 书法，器物，工艺，棋技，武术，竞技，篆刻，绘画，综合，草木鸟兽虫鱼，音乐，饮馔。
-    link: https://ruguoaaa.github.io/xirang6/艺藏/
+    link: /艺藏/
 
   - icon: repo
     title: 佛藏
